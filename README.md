@@ -4,7 +4,7 @@ This repository presents the mechanical design, 3D modeling, and structural anal
 
 
 
-<img src="docs/cover.png">
+<img src="docs/cover.png" width ="800">
 
 *Final Bottle Opener Design*
 
@@ -125,7 +125,7 @@ The final optimized design was manufactured via Computer Numerical Control (CNC)
 
 
 
-<img src="docs/46.png">
+<img src="docs/46.png" width="700">
 
 *Technical specifications of the command*
 
@@ -137,7 +137,7 @@ Finally, the CNC-machined part was subjected to both functional and destructive 
 
 
 
-<img src="docs/opening.gif" width="800">
+<img src="docs/opening.gif" width="600">
 
 *Functional test*
 
