@@ -102,8 +102,6 @@ The final optimized design was manufactured via Computer Numerical Control (CNC)
 
 #### 5\. Experimental Correlation and Destructive Testing
 
-\## 5. Experimental Correlation and Destructive Testing
-
 Finally, the CNC-machined part was subjected to both functional and destructive testing (plastic deformation) in the laboratory. The physical testing allowed us to observe the real-world fracture mechanics and correlate the experimental ultimate force with the theoretical predictions from our ANSYS simulations.
 
 
