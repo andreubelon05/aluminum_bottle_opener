@@ -97,9 +97,9 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 &#x20; <tr>
 
-&#x20;   <td align="center"><img src="docs/31.png" width="100%"></td>
+&#x20;   <td align="center"><img src="docs/31.png" width="90%"></td>
 
-&#x20;   <td align="center"><img src="docs/33.png" width="110%"></td>
+&#x20;   <td align="center"><img src="docs/33.png" width="10%"></td>
 
 &#x20; </tr>
 
