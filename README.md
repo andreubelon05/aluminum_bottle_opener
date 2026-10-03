@@ -80,7 +80,7 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 &#x20;     <td>F<sub>ultimate</sub> (N)</td>
 
-&#x20;     <td>140.37 \&lt; F \&lt; 187.16</td>
+&#x20;     <td>140.37 < F < 187.16</td>
 
 &#x20;   </tr>
 
@@ -91,21 +91,47 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 
 
-| <img src="docs/31.png"> | <img src="docs/33.png"> |
+<table>
 
-| :---: | :---: |
+&#x20; <tr>
 
-| *Von Mises Equivalent Stress on Critical Point under **Nominal Force*** | *Von Mises Equivalent Stress on Critical Point under **Ultimate Force*** |
+&#x20;   <td align="center"><img src="docs/31.png" width="100%"></td>
+
+&#x20;   <td align="center"><img src="docs/33.png" width="100%"></td>
+
+&#x20; </tr>
+
+&#x20; <tr>
+
+&#x20;   <td align="center"><em>Von Mises Equivalent Stress on Critical Point under Nominal Force</em></td>
+
+&#x20;   <td align="center"><em>Von Mises Equivalent Stress on Critical Point under Ultimate Force</em></td>
+
+&#x20; </tr>
+
+</table>
 
 
 
-| <img src="docs/34.png"> | <img src="docs/35.png"> |
+<table>
 
-| :---: | :---: |
+&#x20; <tr>
 
-| *Vertical Displacement under **Nominal Force*** | *Vertical Displacement under **Ultimate Force*** |
+&#x20;   <td align="center"><img src="docs/34.png" width="100%"></td>
 
+&#x20;   <td align="center"><img src="docs/35.png" width="100%"></td>
 
+&#x20; </tr>
+
+&#x20; <tr>
+
+&#x20;   <td align="center"><em>Vertical Displacement under Nominal Force</em></td>
+
+&#x20;   <td align="center"><em>Vertical Displacement under Ultimate Force</em></td>
+
+&#x20; </tr>
+
+</table>
 
 ### 3\. Design Optimization (Material Reduction)
 
