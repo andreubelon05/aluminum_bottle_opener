@@ -6,8 +6,6 @@ This repository presents the mechanical design, 3D modeling, and structural anal
 
 <img src="docs/cover.png">
 
-
-
 *Final Bottle Opener Design*
 
 
@@ -20,15 +18,11 @@ The geometric parameters were meticulously defined based on the standard dimensi
 
 <img src="docs/15.png">
 
-
-
 *PLA Prototype Fitting Test*
 
 
 
 <img src="docs/17.png">
-
-
 
 *Final 3D Model of the Bottle Opener*
 
@@ -54,15 +48,11 @@ An intelligent mesh was initially applied to the geometry. To ensure the reliabi
 
 <img src="docs/26.png">
 
-
-
 *Initial Intelligent Mesh*
 
 
 
 <img src="docs/29.png">
-
-
 
 *Localized Mesh Refinement at the Critical Point*
 
@@ -76,15 +66,11 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 <img src="docs/25.png">
 
-
-
 *Von Mises Equivalent Stress (SEQV) Distribution*
 
 
 
 <img src="docs/28.png">
-
-
 
 *Vertical Displacements Field under Load*
 
@@ -98,8 +84,6 @@ To optimize manufacturing costs and reduce weight, a material reduction study wa
 
 <img src="docs/42.png">
 
-
-
 *Optimized Design featuring Material Reduction*
 
 
@@ -111,8 +95,6 @@ The final optimized design was manufactured via Computer Numerical Control (CNC)
 
 
 <img src="docs/46.png">
-
-
 
 *Technical specifications of the command*
 
@@ -128,23 +110,17 @@ Finally, the CNC-machined part was subjected to both functional and destructive 
 
 <img src="docs/opening.gif" width="800">
 
-
-
 *Functional test*
 
 
 
 <img src="docs/destructive.gif" width="800">
 
-
-
 *Destructive testing procedure of the bottle opener*
 
 
 
 <img src="docs/49.png">
-
-
 
 *Force-Displacement curve collected during destructive test*
 
