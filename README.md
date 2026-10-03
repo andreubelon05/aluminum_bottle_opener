@@ -134,21 +134,69 @@ Finally, the CNC-machined part was subjected to both functional and destructive 
 
 
 
-| Parameter | Theoretical | Experimental |
+<table>
 
-| :--- | :--- | :--- |
+&#x20; <thead>
 
-| Mass (g) m | 14.56 | 14.44 |
+&#x20;   <tr>
 
-| Ultimate force (N) Fu | 183 | 354 |
+&#x20;     <th>Parameter</th>
 
-| Efficiency ζ | 1281.21 | 2501.55 |
+&#x20;     <th>Theoretical</th>
 
-| Safety factor γs | 1.96 | 3.78 |
+&#x20;     <th>Experimental</th>
 
+&#x20;   </tr>
 
+&#x20; </thead>
 
-*Table 8: Comparison of theoretical and experimental data*
+&#x20; <tbody>
+
+&#x20;   <tr>
+
+&#x20;     <td>Mass (g) m</td>
+
+&#x20;     <td>14.56</td>
+
+&#x20;     <td>14.44</td>
+
+&#x20;   </tr>
+
+&#x20;   <tr>
+
+&#x20;     <td>Ultimate force (N) Fu</td>
+
+&#x20;     <td>183</td>
+
+&#x20;     <td>354</td>
+
+&#x20;   </tr>
+
+&#x20;   <tr>
+
+&#x20;     <td>Efficiency ζ</td>
+
+&#x20;     <td>1281.21</td>
+
+&#x20;     <td>2501.55</td>
+
+&#x20;   </tr>
+
+&#x20;   <tr>
+
+&#x20;     <td>Safety factor γs</td>
+
+&#x20;     <td>1.96</td>
+
+&#x20;     <td>3.78</td>
+
+&#x20;   </tr>
+
+&#x20; </tbody>
+
+</table>
+
+*Comparison of theoretical and experimental data*
 
 
 
