@@ -87,6 +87,8 @@ The simulation evaluated both the nominal force required to open a standard bott
 &#x20; </tbody>
 
 </table>
+
+
 *Nominal and ultimate forces values*
 
 
@@ -97,15 +99,15 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 &#x20;   <td align="center"><img src="docs/31.png" width="100%"></td>
 
-&#x20;   <td align="center"><img src="docs/33.png" width="100%"></td>
+&#x20;   <td align="center"><img src="docs/33.png" width="110%"></td>
 
 &#x20; </tr>
 
 &#x20; <tr>
 
-&#x20;   <td align="center"><em>Von Mises Equivalent Stress on Critical Point under Nominal Force</em></td>
+&#x20;   <td align="center"><em>Von Mises Equivalent Stress on Critical Point under **Nominal Force**</em></td>
 
-&#x20;   <td align="center"><em>Von Mises Equivalent Stress on Critical Point under Ultimate Force</em></td>
+&#x20;   <td align="center"><em>Von Mises Equivalent Stress on Critical Point under **Ultimate Force**</em></td>
 
 &#x20; </tr>
 
