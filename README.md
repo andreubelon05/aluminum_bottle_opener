@@ -97,9 +97,9 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 &#x20; <tr>
 
-&#x20;   <td align="center"><img src="docs/31.png" width="90%"></td>
+&#x20;   <td align="center"><img src="docs/31.png" width="500"></td>
 
-&#x20;   <td align="center"><img src="docs/33.png" width="100%"></td>
+&#x20;   <td align="center"><img src="docs/33.png" width="500"></td>
 
 &#x20; </tr>
 
@@ -119,17 +119,17 @@ The simulation evaluated both the nominal force required to open a standard bott
 
 &#x20; <tr>
 
-&#x20;   <td align="center"><img src="docs/34.png" width="100%"></td>
+&#x20;   <td align="center"><img src="docs/34.png" width="500></td>
 
-&#x20;   <td align="center"><img src="docs/35.png" width="100%"></td>
+&#x20;   <td align="center"><img src="docs/35.png" width="500"></td>
 
 &#x20; </tr>
 
 &#x20; <tr>
 
-&#x20;   <td align="center"><em>Vertical Displacement under Nominal Force</em></td>
+&#x20;   <td align="center"><em>Vertical Displacement under **Nominal Force**</em></td>
 
-&#x20;   <td align="center"><em>Vertical Displacement under Ultimate Force</em></td>
+&#x20;   <td align="center"><em>Vertical Displacement under **Ultimate Force**</em></td>
 
 &#x20; </tr>
 
