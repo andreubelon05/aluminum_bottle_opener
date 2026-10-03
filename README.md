@@ -122,7 +122,23 @@ The final optimized design was manufactured via Computer Numerical Control (CNC)
 
 \## 5. Experimental Correlation and Destructive Testing
 
-Finally, the CNC-machined part was subjected to both functional and destructive testing in the laboratory. The physical testing allowed us to observe the real-world fracture mechanics and correlate the experimental ultimate force with the theoretical predictions from our ANSYS simulations.
+Finally, the CNC-machined part was subjected to both functional and destructive testing (plastic deformation) in the laboratory. The physical testing allowed us to observe the real-world fracture mechanics and correlate the experimental ultimate force with the theoretical predictions from our ANSYS simulations.
+
+
+
+<img src="docs/opening.gif" width="800">
+
+
+
+*Functional test*
+
+
+
+<img src="docs/destructive.gif" width="800">
+
+
+
+*Destructive testing procedure of the bottle opener*
 
 
 
@@ -130,7 +146,7 @@ Finally, the CNC-machined part was subjected to both functional and destructive 
 
 
 
-*Force-Displacement curve collected during the test*
+*Force-Displacement curve collected during destructive test*
 
 
 
@@ -209,12 +225,4 @@ In addition to this design factor, the report's own conclusions detail the techn
 * In the ANSYS simulation, a point force and a point fulcrum were assumed, which are assumptions that differ substantially from reality.
 * ANSYS determines the onset of plastic deformation when an almost infinitesimal point adopts the yield strength stress, but in the real test, a higher force is required for this deformation to become noticeable.
 * The displacement was measured from the right end of the handle. This point is not only affected by the critical zone, but also by the rest of the points on the handle that continue to have an elastic (and therefore linear) behavior at higher forces, even when the critical zone has already entered the plastic regime.
-
-
-
-<img src="docs/destructive\_test.gif" width="800">
-
-
-
-*Destructive testing procedure of the bottle opener*
 
